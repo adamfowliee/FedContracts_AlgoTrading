@@ -1,1 +1,4 @@
 datsets/*
+research.duckdb
+research.duckdb.tmp/
+*.tmp
